@@ -3,6 +3,11 @@
 
 ## Описание проекта
 
+### Render.com:
+1. https://doodocstt.onrender.com/archive/information
+2. https://doodocstt.onrender.com/archive/files
+3. https://doodocstt.onrender.com/mail/file
+
 Этот проект был разработан для выполнения технического задания на стажировку в Doodocs.kz. Проект представляет собой REST API, реализующее следующие функции:
 
 1. **Отображение информации об архиве**:
@@ -56,7 +61,7 @@
 
 ### 1. Получение информации об архиве
 
-**URL**: `/api/archive/information`  
+**URL**: `/archive/information`  
 **Метод**: `POST`  
 **Описание**: Принимает архив, возвращает информацию о его структуре.
 
@@ -96,7 +101,7 @@ Content-Type: application/zip
 
 ### 2. Создание архива
 
-**URL**: `/api/archive/files`  
+**URL**: `/archive/files`  
 **Метод**: `POST`  
 **Описание**: Принимает список файлов и создает ZIP-архив.
 
@@ -120,7 +125,7 @@ Content-Type: image/png
 
 ### 3. Отправка файла по email
 
-**URL**: `/api/mail/file`  
+**URL**: `/mail/file`  
 **Метод**: `POST`  
 **Описание**: Отправляет файл на указанные email-адреса.
 
