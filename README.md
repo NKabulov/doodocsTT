@@ -7,6 +7,10 @@
 1. https://doodocstt.onrender.com/archive/information
 2. https://doodocstt.onrender.com/archive/files
 3. https://doodocstt.onrender.com/mail/file
+4. 
+### Video:
+https://www.loom.com/share/14277b818af448558ecfb4012b706e23?sid=d9ff0ce4-e6d9-4553-b24e-8074881b64be
+если первая ссылка не сработает: https://drive.google.com/file/d/1TPwhGhPa03jVGH9AAl7e_HKCr4oGXYv4/view?usp=sharing
 
 Этот проект был разработан для выполнения технического задания на стажировку в Doodocs.kz. Проект представляет собой REST API, реализующее следующие функции:
 
